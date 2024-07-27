@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"14e1658adcc94c10a1aacd19597bb3cb","collectionName":"i64.trunc_sat_f64_s","type":"collection"}
